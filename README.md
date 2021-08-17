@@ -1,9 +1,10 @@
 # MyReads Project
 
 A book Tracker application that helps you to keep track of your books by moving them between three shelves:
-1- currently Reading
-2-Want To Read
-3- Read
+*currently Reading
+*Want To Read
+*Read
+
 #If you want to delete book from shelves:
 select None
 #If you want To search for book:
