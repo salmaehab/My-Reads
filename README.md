@@ -6,8 +6,11 @@ A book Tracker application that helps you to keep track of your books by moving 
 *Read
 
 #If you want to delete book from shelves:
+
 select None
+
 #If you want To search for book:
+
 go to search page and type the name of book title or author
 **Note that search terms are limited and you can find them at SEARCH_TERMS.md
 #If you want to add from searched books to your shelves:
